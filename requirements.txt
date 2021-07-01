@@ -1,0 +1,5 @@
+selenium
+termcolor
+pyfiglet
+webdriver_manager
+fake-useragent
