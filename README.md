@@ -5,7 +5,7 @@
 git clone https://github.com/djsfabio/Scrap-Ebay.git
 ```
 ```
-cd Scrap Ebay
+cd Scrap-Ebay
 ```
 alors
 ```
