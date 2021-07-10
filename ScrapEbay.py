@@ -57,6 +57,6 @@ for i in listDesResultats:
         print("\n\n\n")
         incrementation += 1
     except Exception:
-        print("Donnée erronée")
+        continue
     
 myfile.close()
